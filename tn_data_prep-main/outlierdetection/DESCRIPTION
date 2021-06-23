@@ -1,0 +1,11 @@
+Package: outlierdetection
+Title: Outlier Detection
+Version: 0.0.0.9000
+Authors@R: person("Surabhi", "Shipra", email = "gartner@gartner.com", role = c("aut", "cre"))
+Description: The package helps to detect outlier using different ensemble techniques
+Depends: R (>= 3.5.1)
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
+Imports: dplyr, stlplus, pryr, zoo, RMySQL

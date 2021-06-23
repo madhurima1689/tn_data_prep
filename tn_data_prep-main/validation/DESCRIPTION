@@ -1,0 +1,11 @@
+Package: validation
+Title: Validation File template
+Version: 0.0.0.9000
+Authors@R: person("Surabhi", "Agrawal", email = "surabhi.agrawal@gartner.com", role = c("aut", "cre"))
+Description: The package helps to create a generic template for the validation file
+Depends: R (>= 3.5.1)
+License: 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0.9000
+Imports: dplyr, data.table, openxlsx, svDialogs
